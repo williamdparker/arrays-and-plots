@@ -1,1 +1,1 @@
-# Concepts Addressed in User Input and Error Handling
+# Concepts Addressed in Array Computing and Curve Plotting
